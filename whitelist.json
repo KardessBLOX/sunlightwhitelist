@@ -1,0 +1,26 @@
+{
+  "WhitelistedUsers": [
+    {
+      "hash": "a24ec433e2fda69710f56c4ceafd194d6e3b8206048790bcc9a99c18571abc4bd38cb9353ba7ecaa79ac1394e0f111c7da4c7ae9748aa4dc79b8691817b40405",
+      "attackable": false,
+      "level": 900,
+      "tags": [
+        {
+          "text": "SUNLIGHT OWNER",
+          "color": [
+            252,
+            186,
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "BlacklistedUsers": [],
+  "Announcement": {
+    "text": "",
+    "expiretime": 0,
+    "targets": "all"
+  },
+  "KillVape": false
+        }
